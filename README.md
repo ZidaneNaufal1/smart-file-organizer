@@ -1,5 +1,9 @@
 # Smart File Organizer
 
+[![Tests](https://github.com/ZidaneNaufal1/smart-file-organizer/actions/workflows/tests.yml/badge.svg)](https://github.com/ZidaneNaufal1/smart-file-organizer/actions/workflows/tests.yml)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-3776AB.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A safe Python command-line tool that organizes files into category
 folders based on their extensions.
 
@@ -149,12 +153,28 @@ The automated tests cover:
 
 ```text
 smart-file-organizer/
+├── .github/
+│   └── workflows/
+│       └── tests.yml
 ├── organizer.py
 ├── test_organizer.py
+├── CONTRIBUTING.md
+├── CHANGELOG.md
 ├── README.md
 ├── LICENSE
 └── .gitignore
 ```
+
+## Contributing
+
+Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the
+local setup, safety rules, test commands, and pull request workflow.
+
+## Releases
+
+Release notes are maintained in [CHANGELOG.md](CHANGELOG.md). Stable versions
+are published on the repository's
+[Releases page](https://github.com/ZidaneNaufal1/smart-file-organizer/releases).
 
 ## Author
 
@@ -165,3 +185,4 @@ GitHub: [ZidaneNaufal1](https://github.com/ZidaneNaufal1)
 ## License
 
 This project is available under the MIT License.
+
