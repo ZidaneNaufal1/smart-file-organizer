@@ -52,4 +52,3 @@ python3 -m unittest discover -v
 Include the operating system, Python version, command used, expected behavior,
 actual behavior, and a minimal example that contains no private files or
 credentials.
-

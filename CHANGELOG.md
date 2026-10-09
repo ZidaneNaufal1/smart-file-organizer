@@ -7,6 +7,10 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 ## [Unreleased]
 
+### Added
+
+- Reproducible temporary-directory demo executed by CI.
+
 ## [1.0.0] - 2026-10-07
 
 ### Added
@@ -24,4 +28,3 @@ and this project uses [Semantic Versioning](https://semver.org/spec/v2.0.0.html)
 
 [Unreleased]: https://github.com/ZidaneNaufal1/smart-file-organizer/compare/v1.0.0...HEAD
 [1.0.0]: https://github.com/ZidaneNaufal1/smart-file-organizer/releases/tag/v1.0.0
-

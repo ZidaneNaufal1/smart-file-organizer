@@ -149,6 +149,19 @@ The automated tests cover:
 - Filename collision handling
 - Hidden-file behavior
 
+## Reproducible Demo
+
+Run the included demonstration:
+
+```bash
+python examples/run_demo.py
+```
+
+The script creates disposable sample files in a temporary directory, displays
+the dry-run plan, applies it, and prints the resulting directory tree. It never
+uses personal Downloads or Documents folders. The same demonstration runs in
+GitHub Actions as a smoke test.
+
 ## Project Structure
 
 ```text
@@ -158,6 +171,8 @@ smart-file-organizer/
 │       └── tests.yml
 ├── organizer.py
 ├── test_organizer.py
+├── examples/
+│   └── run_demo.py
 ├── CONTRIBUTING.md
 ├── CHANGELOG.md
 ├── README.md
@@ -185,4 +200,3 @@ GitHub: [ZidaneNaufal1](https://github.com/ZidaneNaufal1)
 ## License
 
 This project is available under the MIT License.
-
