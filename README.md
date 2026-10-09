@@ -185,6 +185,16 @@ smart-file-organizer/
 Contributions are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) for the
 local setup, safety rules, test commands, and pull request workflow.
 
+## Roadmap
+
+Planned work is tracked in GitHub Issues. The next focused milestone is
+[operation reports and reversible undo for v1.1.0](https://github.com/ZidaneNaufal1/smart-file-organizer/issues/1).
+
+## Security
+
+Please follow [SECURITY.md](SECURITY.md) when reporting data-safety or security
+problems. Never attach private files or personal filenames to a public issue.
+
 ## Releases
 
 Release notes are maintained in [CHANGELOG.md](CHANGELOG.md). Stable versions
